@@ -19,4 +19,4 @@
 - Utilizes open-source repositories to aide in the styling of the application.
 
 
-Video Walkthrough coming soon!
+Video Walkthrough: https://youtu.be/hERRdv6Rw5w
